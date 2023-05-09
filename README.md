@@ -1,9 +1,7 @@
 # Jogo21
-
-![Badge status finalizado](https://img.shields.io/badge/Status-Finalizado-success?style=for-the-badge)
-
+ 
+![Badge status finalizado](https://img.shields.io/badge/Status-Finalizado-success?style=for-the-badge)&nbsp;&nbsp;&nbsp;
 ![Badge mes e ano de criação](https://img.shields.io/badge/Release_Date-04/2023-informational?style=for-the-badge)
-
 
 # Descrição
 Jogo feito com as classes desenvolvidas durante as aulas de orientação a objeto em Java no segundo ano da faculdade de Sistema de informação da FIAP. Com um pouco de pesquisa e testes do Java SWING, uma ferramenta para desenvolvimento de GUIs, foi possível desenvolver uma interface para o app.
