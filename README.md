@@ -2,6 +2,8 @@
  
 ![Badge status finalizado](https://img.shields.io/badge/Status-Finalizado-success?style=for-the-badge)&nbsp;&nbsp;&nbsp;
 ![Badge mes e ano de criação](https://img.shields.io/badge/Release_Date-04/2023-informational?style=for-the-badge)
+[![Badge readme portugues](https://img.shields.io/badge/Lang-PT--BR-informational?style=for-the-badge)](https://github.com/VituHonda/Jogo21/edit/main/README.md)
+[![Badge readme ingles](https://img.shields.io/badge/Lang-EN-informational?style=for-the-badge)](https://github.com/VituHonda/Jogo21/blob/main/README-en.md)
 
 # Descrição
 Jogo feito com as classes desenvolvidas durante as aulas de orientação a objeto em Java no segundo ano da faculdade de Sistema de informação da FIAP. Com um pouco de pesquisa e testes do Java SWING, uma ferramenta para desenvolvimento de GUIs, foi possível desenvolver uma interface para o app.
