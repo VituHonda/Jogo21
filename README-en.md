@@ -1,4 +1,4 @@
-# Jogo21
+# Game21
  
 ![Badge status finalizado](https://img.shields.io/badge/Status-Finalizado-success?style=for-the-badge)&nbsp;&nbsp;&nbsp;
 ![Badge mes e ano de criação](https://img.shields.io/badge/Release_Date-04/2023-informational?style=for-the-badge)
@@ -6,40 +6,45 @@
 [![Badge readme ingles](https://img.shields.io/badge/Lang-EN-informational?style=for-the-badge)](https://github.com/VituHonda/Jogo21/blob/main/README-en.md)
 
 # Description
-Jogo feito com as classes desenvolvidas durante as aulas de orientação a objeto em Java no segundo ano da faculdade de Sistema de informação da FIAP. Com um pouco de pesquisa e testes do Java SWING, uma ferramenta para desenvolvimento de GUIs, foi possível desenvolver uma interface para o app.
+Game done with the Java classes developed during the course of OOP in Java on my second year of Informational Systems in FIAP. With some research and tries learning Java SWING, a toolkit made for GUI development, i was able to create the interface for this app.
 
 # The App
 
-Ao abrir o app essa será a tela inicial.
+This is the starting screen.
 
 ![Img Tela inicial jogo 21](https://github.com/VituHonda/Jogo21/blob/main/Jogo21Img/TelaInicial.png)
 
-Ao começar o jogo você tem a opção de mostrar as cartas utilizando o botão ou comprar mais cartas até estar satisfeito com a pontuação.
+When you start playing you have the option to show your cards and end the game or buy more cards until you get satisfied with your ponctuation.
 
-Clicar no botão mostrar cartas encerra o jogo, as cartas da cpu são geradas e mostradas e um pop-up aparece informando se você ganhou ou perdeu.
+When you click on the button "Mostrar cartas" you end the game, the cpu cards are generated and shown, after a pop-up shows up informing if you win or lose.
+
+Win Message
 
 ![Pop-up com mensagem de ganhou](https://github.com/VituHonda/Jogo21/blob/main/Jogo21Img/MensagemGanhou.png)
+
+Lose Message
+
 ![Pop-up com mensagem de perdeu](https://github.com/VituHonda/Jogo21/blob/main/Jogo21Img/MensagemPerdeu.png)
 
-Para continuar jogando reinicie o jogo clicando no menu options e depois em restart, fazendo isso você voltará para a tela inicial e poderá continuar jogando.
+To keep playing you need to restart the game. In order to do that you need to click on the menu option and then restart. That will put you back to the starting screen. 
 
 ![Imagem menu options com a opçao restart](https://github.com/VituHonda/Jogo21/blob/main/Jogo21Img/BotaoRestart.png)
 
 # Functions
 
-Botão "Comprar" 
+Buy button 
 
 ![Imagem botão comprar](https://github.com/VituHonda/Jogo21/blob/main/Jogo21Img/BotaoComprar.png)
 
-Botão "Mostrar cartas"
+show cards button
 
 ![Imagem botão mostrar cartas](https://github.com/VituHonda/Jogo21/blob/main/Jogo21Img/BotaoMostrarCartas.png)
 
-Aqui você confere sua pontuação e quando o jogo acabar a da CPU
+Here you check your ponctuation
 
 ![Img pontuação](https://github.com/VituHonda/Jogo21/blob/main/Jogo21Img/Pontuacao.png)
 
-Caso você tente comprar com 21 pontos uma mensagem de confirmação surgira como pop-up
+This is the pop-up message that shows if you try to buy with 21 points
 
 ![Pop-up de confimação](https://github.com/VituHonda/Jogo21/blob/main/Jogo21Img/ConfirmaCompra21.png)
 
@@ -52,4 +57,4 @@ Caso você tente comprar com 21 pontos uma mensagem de confirmação surgira com
 
 # Conclusion
 
-O projeto foi muito legal, foi bom descobrir que é possível desenvolver interfaces gráficas para as aplicações em Java. Além disso, foi possível praticar um pouco dos conhecimento com a linguagem e tentar aprender coisas novas fora do curso.
+It was a really cool project, it was nice do discover that it is possible to develop GUIs to Java applications. Besides that, it was possible to practice some of the stuff i know about the language and it was nice to learn new stuff out of the University content.
