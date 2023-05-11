@@ -2,7 +2,7 @@
  
 ![Badge status finalizado](https://img.shields.io/badge/Status-Finalizado-success?style=for-the-badge)&nbsp;&nbsp;&nbsp;
 ![Badge mes e ano de criação](https://img.shields.io/badge/Release_Date-04/2023-informational?style=for-the-badge)
-[![Badge readme portugues](https://img.shields.io/badge/Lang-PT--BR-informational?style=for-the-badge)](https://github.com/VituHonda/Jogo21/edit/main/README.md)
+[![Badge readme portugues](https://img.shields.io/badge/Lang-PT--BR-informational?style=for-the-badge)](https://github.com/VituHonda/Jogo21)
 [![Badge readme ingles](https://img.shields.io/badge/Lang-EN-informational?style=for-the-badge)](https://github.com/VituHonda/Jogo21/blob/main/README-en.md)
 
 # Description
