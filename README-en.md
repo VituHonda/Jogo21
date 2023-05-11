@@ -8,7 +8,7 @@
 # Description
 Jogo feito com as classes desenvolvidas durante as aulas de orientação a objeto em Java no segundo ano da faculdade de Sistema de informação da FIAP. Com um pouco de pesquisa e testes do Java SWING, uma ferramenta para desenvolvimento de GUIs, foi possível desenvolver uma interface para o app.
 
-# O App
+# The App
 
 Ao abrir o app essa será a tela inicial.
 
@@ -25,7 +25,7 @@ Para continuar jogando reinicie o jogo clicando no menu options e depois em rest
 
 ![Imagem menu options com a opçao restart](https://github.com/VituHonda/Jogo21/blob/main/Jogo21Img/BotaoRestart.png)
 
-# Funcionalidades
+# Functions
 
 Botão "Comprar" 
 
@@ -43,13 +43,13 @@ Caso você tente comprar com 21 pontos uma mensagem de confirmação surgira com
 
 ![Pop-up de confimação](https://github.com/VituHonda/Jogo21/blob/main/Jogo21Img/ConfirmaCompra21.png)
 
-# Tecnologias utilizadas
+# Tecnologies
 
  - JAVA
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="90" height="90" />
           
 
-# Conclusão
+# Conclusion
 
 O projeto foi muito legal, foi bom descobrir que é possível desenvolver interfaces gráficas para as aplicações em Java. Além disso, foi possível praticar um pouco dos conhecimento com a linguagem e tentar aprender coisas novas fora do curso.
